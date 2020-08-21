@@ -23,6 +23,11 @@
 		display: block;
 	}
 
+	.me{
+		height: 100px;
+		width: 10%;
+	}
+
 	body {
 		line-height: 1;
 	}
